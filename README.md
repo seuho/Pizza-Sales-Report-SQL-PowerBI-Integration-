@@ -17,6 +17,7 @@ The database consists of 12 columns and contains 48,620 rows. The columns are as
 - **pizza_ingredients**: Ingredients used in the pizza.
 - **pizza_name**: Name of the pizza.
   
-![Pizza Sales Report Home](https://github.com/user-attachments/assets/2f2d1c47-7d70-4822-96a2-3a5155009545)
+![Pizza Sales Report Home](https://github.com/user-attachments/assets/748ec515-3717-4d2a-a147-1667b6eaaae3)
+
 
 ![Pizza Sales Report Best_Worst Sellers](https://github.com/user-attachments/assets/bd248bdc-32b5-46cc-84a0-ca8a67e92eba)
